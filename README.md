@@ -45,3 +45,8 @@ The objective was to test the Urban Routes web application through manual testin
 ## Author
 
 Oscar Ignacio Fonseca Cova
+## Screenshots
+
+![Urban Routes](Captura de pantalla 2026-06-26 233623.png)
+
+![Testing](Captura de pantalla 2026-06-26 233638.png)
